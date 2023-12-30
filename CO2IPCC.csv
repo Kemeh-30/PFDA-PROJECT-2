@@ -1,6 +1,4 @@
-﻿"EDC (560-806 kyr, corrected for analytical bias)",,,Composite CO2 record (800 - PRESENT kyr BP)
-Bereiter et al. (2014),,,
-Depth (m),"Gasage (AICC2012, yr BP)",CO2 (ppmv),sigma mean CO2 (ppmv)
+﻿Depth (m),Year,CO2 (ppmv),sigma mean CO2 (ppmv)
 2950.53,562654.67,234.07,0.94
 2951.82,563135.78,240.11,2.13
 2952.92,563536.65,242.29,0.51
